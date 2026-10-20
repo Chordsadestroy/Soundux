@@ -5,56 +5,11 @@
 
 <div align="center">
   <p>
-    Read the documentation in:
-    <br>
-    <a href="https://github.com/Soundux/Soundux/blob/master/README.md">[English]</a>
-    <a href="https://github.com/Soundux/Soundux/blob/master/i18n/LISEZMOI.md">[French]</a>
-    <a href="https://github.com/Soundux/Soundux/blob/master/i18n/ПРОЧТИМЕНЯ.md">[Russian]</a>
     <br><br><br>
     <img src="assets/logo.gif" height="200"/>
     <br>
     <h6>A cross-platform soundboard 🔊</h6>
-    <br>
-        <a href="https://github.com/Soundux/Soundux/releases">
-      <img src="https://img.shields.io/github/release/Soundux/Soundux.svg?style=flat-square" alt="Latest Stable Release" />
-    </a>
-    <br>
-    <a href="https://github.com/Soundux/Soundux/stargazers">
-      <img src="https://img.shields.io/github/stars/Soundux/soundux?style=flat-square" alt="GitHub Repo stars">
-    </a>
-    <a href="https://github.com/Soundux/Soundux/issues">
-      <img src="https://img.shields.io/github/issues/Soundux/soundux?style=flat-square" alt="GitHub issues">
-    </a>
-    <a href="https://github.com/Soundux/Soundux/pulls">
-      <img src="https://img.shields.io/github/issues-pr-raw/Soundux/soundux?label=pulls&style=flat-square" alt="GitHub pull requests">
-    </a>
-    <br>
-    <a href="https://github.com/Soundux/Soundux/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/Soundux/Soundux.svg?style=flat-square" alt="License" />
-    </a>
-    <a href="https://discord.gg/4HwSGN4Ec2">
-      <img src="https://img.shields.io/discord/697348809591750706?label=discord&style=flat-square" alt="Discord" />
-    </a>
-    <a href="https://matrix.to/#/!XlIlRgKzoRavKnurkt:matrix.org">
-      <img src="https://img.shields.io/badge/chat-matrix%20space-blue?style=flat-square" alt="Matrix" />
-    </a>
-    <br>
-    <a href="https://github.com/Soundux/Soundux/actions?query=workflow%3A%22Build+on+Windows%22">
-      <img src="https://img.shields.io/github/workflow/status/Soundux/Soundux/Build%20on%20Windows?label=windows%20build&style=flat-square" alt="Windows Build" />
-    </a>
-    <a href="https://github.com/Soundux/Soundux/actions?query=workflow%3A%22Build+on+Linux%22">
-      <img src="https://img.shields.io/github/workflow/status/Soundux/Soundux/Build%20on%20Linux?label=linux%20build&style=flat-square" alt="Linux Build" />
-    </a>
-    <a href="https://github.com/Soundux/Soundux/actions?query=workflow%3A%22Build+Flatpak%22">
-      <img src="https://img.shields.io/github/workflow/status/Soundux/Soundux/Build%20Flatpak?label=flatpak%20build&style=flat-square" alt="Flatpak Build" />
-    </a>
-    <hr>
-    <a href="https://discord.com/invite/4HwSGN4Ec2">
-      <img src="https://invidget.switchblade.xyz/4HwSGN4Ec2" alt="Discord Invite"/>
-    </a>
-    <a href="https://hosted.weblate.org/engage/soundux/">
-      <img src="https://hosted.weblate.org/widgets/soundux/-/frontend/multi-green.svg" alt="Translation status" />
-    </a>
+  
   </p>
 </div>
 
